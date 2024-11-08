@@ -49,6 +49,6 @@ the planar coordinate for the center of the line is found.
 This final vector is appended to the final pixel image \
 (x, y contributes to r, g respectively)
 
-The straight line is interpreted as a linear gradient with options to \
+The straight line is calculated as a linear gradient with options to \
 interpret it with either the mean of the two vectors or a singular \
 midpoint formula as mentioned above.
