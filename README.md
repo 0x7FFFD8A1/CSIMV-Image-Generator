@@ -40,6 +40,7 @@ whilst the vector is used for red and green values
 - Pixels are converted to UINT8 for compatibility.
 - Magnitude is used in the blue values, but after testing, it has \
   been found that Direction is not efficient for calculating alpha values.
+- Magnitude is used as a property to compair pixels
 
 #### Decoding
 2 Planar vectors (with 1 as a filler) are plotted on a virtual \
