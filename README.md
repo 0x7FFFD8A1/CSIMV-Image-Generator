@@ -1,7 +1,10 @@
 # CSIMV-Image-Generator
 _Cosine Similarity Vector Generator._\
 A new way to look at mathematically generated images using the analyzation \
-of the similarities and differences between pairs of pixels
+of the similarities and differences between pairs of pixels. \
+
+__please note that the final output images have been edited for clarity__ \
+_contrast and sharpness has increased._
 
 #### Equation Functionality
 It works by finding the cosine similarities of pixels sorted into pairs.
