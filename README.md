@@ -1,9 +1,6 @@
 # CSIMV-Image-Generator
 _Cosine Similarity Vector Generator._\
-A new way to look at mathematically generated images using the analyzation \
-of the similarities and differences between pairs of pixels.
-
-Its alright as a stupid little gimmick, but its pretty irrelevent in today's world. \
+Its alright as a fun little gimmick, but its pretty irrelevent in today's world. \
 If you don't know why, search up 'DALL-E' in your browser of choice
 
 __please note that the final output images have been edited for clarity__ \
