@@ -20,8 +20,8 @@ pixels = []
 pairs = []
 
 # Loop over each pixel in the image
-for y in range(image_arr.shape[0]):		# X axis
-	for x in range(image_arr.shape[1]):	# Y axis
+for y in range(image_arr.shape[0]):		# Y axis
+	for x in range(image_arr.shape[1]):	# X axis
 		pixel = image_arr[y, x]
 		pixels.append(pixel)
 
