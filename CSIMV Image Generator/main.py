@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 import warnings
 
-# Disable 'scalar divide by 0' and other runtime warnings
+# Disable 'scalar divide by 0' runtime warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
 # Extracting pixels from image
